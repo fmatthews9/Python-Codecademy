@@ -1,2 +1,2 @@
 # Python-Codecademy
-Projects and work from codeacademy data science course 
+Projects and work from the Codeacademy Data Science course. 
